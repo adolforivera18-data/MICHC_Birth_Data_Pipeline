@@ -1,0 +1,84 @@
+variable_name,original_code,descriptive_label
+maternal_education,1,8th grade or less
+maternal_education,2,9th-12th grade;no Diploma
+maternal_education,3,High School Graduate or GED
+maternal_education,4,"Some college credit, but no degree"
+maternal_education,5,Associate degree
+maternal_education,6,Bachelor's degree
+maternal_education,7,Master's degree
+maternal_education,8,Doctorate's degree
+maternal_education,9,Unknown
+maternal_education,,Unknown
+delivery_method,1,Spontaneous
+delivery_method,2,Forceps-Mid
+delivery_method,3,Forceps- Low/Outlet
+delivery_method,4,Vacuum
+delivery_method,5,Cesarean
+delivery_method,9,Unknown
+delivery_method,,Unknown
+alcohol_risk,0,No
+alcohol_risk,1,Yes
+alcohol_risk,9,Unknown
+alcohol_risk,,Unknown
+diabetes_pre_preg,0,No
+diabetes_pre_preg,1,Yes
+diabetes_pre_preg,,Unknown
+gestation_diabetes,0,No
+gestation_diabetes,1,Yes
+gestation_diabetes,,Unknown
+drug_use,0,No
+drug_use,1,Yes
+drug_use,9,Unknown
+drug_use,,Unknown
+hypertension_pre_preg,0,No
+hypertension_pre_preg,1,Yes
+hypertension_pre_preg,,Unknown
+hypertension_preg_related,0,No
+hypertension_preg_related,1,Yes
+hypertension_preg_related,,Unknown
+infant_feeding,1,Breast Milk Only
+infant_feeding,2,Formula Only
+infant_feeding,3,Both
+infant_feeding,4,Neither
+infant_feeding,9,Unknown
+infant_feeding,,Unknown
+prenatal_care_received,0,No
+prenatal_care_received,1,Yes
+prenatal_care_received,,Unknown
+primary_payor,1,Medicaid
+primary_payor,2,Private Insurance
+primary_payor,3,Self-Pay
+primary_payor,4,Indian Health Insurance
+primary_payor,5,Champus/Tricare
+primary_payor,6,Other Government/ Child Health Plus B
+primary_payor,7,Other
+primary_payor,9,Unknown
+primary_payor,,Unknown
+tobacco,0,No
+tobacco,1,Yes
+tobacco,9,Unknown
+tobacco,,Unknown
+hispanic,0,Yes
+hispanic,1,No
+hispanic,,Unknown
+white,0,No
+white,1,Yes
+white,,Unknown
+black,0,No
+black,1,Yes
+black,,Unknown
+american_indian_alaskan_native,0,No
+american_indian_alaskan_native,1,Yes
+american_indian_alaskan_native,,Unknown
+other_race,0,No
+other_race,1,Yes
+other_race,,Unknown
+facility,694,MLSC (St Lukes)
+facility,699,Garnet
+facility,704,SACH (St Anthony)
+facility,708,Bon Secours
+facility,,Unknown
+hep_b_immunization,0,No
+hep_b_immunization,1,Yes
+hep_b_immunization,9,Unknown
+hep_b_immunization,,Unknown

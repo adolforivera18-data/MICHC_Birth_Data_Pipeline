@@ -1,0 +1,32 @@
+indicator_id,indicator_title,indicator_group,sort_order
+maternal_age,Maternal Age Distribution,Maternal Demographics,1
+maternal_education,Maternal Education Level,Maternal Demographics,2
+maternal_ethnicity,Maternal Ethnicity,Maternal Demographics,3
+maternal_race_white,Maternal Race — White,Maternal Demographics,4
+maternal_race_black,Maternal Race — Black,Maternal Demographics,5
+maternal_race_asian,Maternal Race — Asian,Maternal Demographics,6
+maternal_race_pacific_islander,Maternal Race — Native Hawaiian or Other Pacific Islander,Maternal Demographics,7
+maternal_race_aian,Maternal Race — American Indian or Alaska Native,Maternal Demographics,8
+maternal_race_other,Maternal Race — Other Race,Maternal Demographics,9
+primary_payor,Primary Payor,Maternal Demographics,10
+tobacco_use,Maternal Tobacco Use,Maternal Risk Factors,11
+alcohol_use,Maternal Alcohol Use,Maternal Risk Factors,12
+drug_use,Maternal Drug Use,Maternal Risk Factors,13
+prepregnancy_diabetes,Pre-pregnancy Diabetes,Maternal Risk Factors,14
+gestational_diabetes,Gestational Diabetes,Maternal Risk Factors,15
+prepregnancy_hypertension,Pre-pregnancy Hypertension,Maternal Risk Factors,16
+pregnancy_related_hypertension,Pregnancy-related Hypertension,Maternal Risk Factors,17
+maternal_bmi,Pre-pregnancy BMI Distribution,Maternal Risk Factors,18
+prenatal_care_received,Prenatal Care Received,Prenatal Care,19
+prenatal_care_adequate,Adequate Prenatal Care,Prenatal Care,20
+delivery_method,Route/Method of Delivery,Labor and Delivery,21
+cesarean_delivery,Cesarean Delivery,Labor and Delivery,22
+birth_facility,Birth Facility,Labor and Delivery,23
+birthweight,Birthweight Distribution,Infant Characteristics,24
+low_birthweight,Low Birthweight,Infant Characteristics,25
+gestational_age,Gestational Age Distribution,Infant Characteristics,26
+preterm_birth,Preterm Birth,Infant Characteristics,27
+nicu_admission,NICU Admission,Infant Health Outcomes,28
+hepatitis_b_immunization,Hepatitis B Immunization,Infant Preventive Care and Feeding,29
+infant_feeding,Infant Feeding,Infant Preventive Care and Feeding,30
+total_births,Total Births,Birth Statistics,31
